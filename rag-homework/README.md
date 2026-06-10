@@ -43,7 +43,7 @@ uv run python scripts/check_generator.py
 | stock market business | ответ найден |
 | Как приготовить борщ? | отказ |
 
-Скриншоты: doc/screenshots/
+
 
 ## Ограничения MVP
 - TF-IDF (поиск по словам, не по смыслу)
